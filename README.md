@@ -10,4 +10,4 @@ Mirco Ravanelli, Yoshua Bengio, “Speaker Recognition from raw waveform with Si
 
 Video about SincNet (https://www.youtube.com/watch?v=mXQBObRGUgk&feature=youtu.be)
 
-MetricLearnin Template (https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb)
+MetricLearning Template (https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/examples/notebooks/TrainWithClassifier.ipynb)
